@@ -30,7 +30,7 @@ Matplotlib
   - Validation Accuracy: 94.63% | Validation Loss: 0.1936
 
 
-<img align="left" alt="img" src="https://i.ibb.co/y6MMc3s/Screenshot-2021-05-06-at-5-41-21-PM.png" width="400" height="320" />
-<img align="right" alt="img" src="https://i.ibb.co/pb4SVWz/Screenshot-2021-05-06-at-5-41-08-PM.png" width="400" height="320" />
+<img align="left" alt="img" src="https://i.ibb.co/y6MMc3s/Screenshot-2021-05-06-at-5-41-21-PM.png" width="350" height="260" />
+<img align="right" alt="img" src="https://i.ibb.co/pb4SVWz/Screenshot-2021-05-06-at-5-41-08-PM.png" width="350" height="260" />
 
 
